@@ -1,0 +1,31 @@
+{
+	"in_process_packages":
+	[
+	],
+	"installed_packages":
+	[
+		"CodeKit",
+		"ColorPicker",
+		"DashDoc",
+		"Dotfiles Syntax Highlighting",
+		"Emmet",
+		"Foundation 5 Snippets",
+		"GitGutter",
+		"Gulp",
+		"Jekyll",
+		"Markdown Extended",
+		"Package Control",
+		"PackageResourceViewer",
+		"Pretty JSON",
+		"Restart",
+		"SCSS",
+		"SideBarEnhancements",
+		"Simple Print Function",
+		"Siteleaf Liquid Syntax",
+		"SublimeLinter",
+		"SublimeLinter-jshint",
+		"Theme - Cobalt2",
+		"View In Browser",
+		"WordPress Developer Resources"
+	]
+}
