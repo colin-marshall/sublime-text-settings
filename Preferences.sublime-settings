@@ -3,7 +3,8 @@
 	"font_size": 14,
 	"ignored_packages":
 	[
-		"Vintage"
+		"Vintage",
+		"Markdown"
 	],
 	"theme": "Cobalt2.sublime-theme",
 	"update_check": false
