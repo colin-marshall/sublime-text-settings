@@ -2,7 +2,7 @@
 
 ## Packages Installed:
 
-* ###[Sublime Markdown Extended](https://github.com/jonschlinkert/sublime-markdown-extended)
+* [Sublime Markdown Extended](https://github.com/jonschlinkert/sublime-markdown-extended)
 
 ## Install SublimeCodeIntel Manually:
 Install the development branch of SublimeCodeIntel to the `Packages` directory:
