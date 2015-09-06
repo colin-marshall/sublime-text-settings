@@ -1,6 +1,13 @@
 # Sublime Text Packages & User Settings
 This repo cotains all of my Sublime Text 3 Packages & User Settings for syncing my development environment between different workstations.
 
+## Installation Instructions:
+Clone this repo inside of the `Packages/User` directory
+
+```bash
+git clone https://github.com/colin-marshall/sublime-text-settings.git
+``` 
+
 ## Packages Installed:
 
 * [CodeKit](https://github.com/ManxStef/sublime-codekit)
@@ -17,7 +24,7 @@ This repo cotains all of my Sublime Text 3 Packages & User Settings for syncing 
 * [SCSS](https://github.com/MarioRicalde/SCSS.tmbundle)
 * [Sidebar Enhancements](https://github.com/titoBouzout/SideBarEnhancements)
 * [Siteleaf Liquid Syntax](https://github.com/siteleaf/liquid-syntax-mode)
-* [SublimeCodeIntel](https://github.com/SublimeCodeIntel/SublimeCodeIntel)*
+* [SublimeCodeIntel](https://github.com/SublimeCodeIntel/SublimeCodeIntel) *
 * [SublimeLinter](https://github.com/SublimeLinter/SublimeLinter3)
 * [SublimeLinter-jshint](https://github.com/SublimeLinter/SublimeLinter-jshint)
 * [Terminal](https://github.com/wbond/sublime_terminal)
