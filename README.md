@@ -25,7 +25,7 @@ This repo cotains all of my Sublime Text 3 Packages & User Settings for syncing 
 * [View In Browser](https://github.com/adampresley/sublime-view-in-browser)
 * [WordPress](https://github.com/purplefish32/sublime-text-2-wordpress)
 
-*SublimeCodeIntel must be installed manually to work with Sublime Text 3.
+\* SublimeCodeIntel must be installed manually to work with Sublime Text 3.
 
 ### Install SublimeCodeIntel Manually:
 Install the development branch of SublimeCodeIntel to the `Packages` directory:
