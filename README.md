@@ -26,7 +26,11 @@ git clone https://github.com/colin-marshall/sublime-text-settings.git
 * [Siteleaf Liquid Syntax](https://github.com/siteleaf/liquid-syntax-mode)
 * [SublimeCodeIntel](https://github.com/SublimeCodeIntel/SublimeCodeIntel) *
 * [SublimeLinter](https://github.com/SublimeLinter/SublimeLinter3)
+* [SublimeLinter-csslint](https://github.com/SublimeLinter/SublimeLinter-csslint)
 * [SublimeLinter-jshint](https://github.com/SublimeLinter/SublimeLinter-jshint)
+* [SublimeLinter-json](https://github.com/SublimeLinter/SublimeLinter-json)
+* [SublimeLinter-html-tidy](https://github.com/SublimeLinter/SublimeLinter-html-tidy)
+* [SublimeLinter-php](https://github.com/SublimeLinter/SublimeLinter-php)
 * [Terminal](https://github.com/wbond/sublime_terminal)
 * [Theme - Cobalt2](https://github.com/wesbos/cobalt2)
 * [View In Browser](https://github.com/adampresley/sublime-view-in-browser)
