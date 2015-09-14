@@ -10,6 +10,7 @@ git clone https://github.com/colin-marshall/sublime-text-settings.git
 
 ## Packages Installed:
 
+* [ApplySyntax](https://github.com/facelessuser/ApplySyntax)
 * [CodeKit](https://github.com/ManxStef/sublime-codekit)
 * [ColorPicker](https://github.com/weslly/ColorPicker)
 * [Dotfiles Syntax Highlighting](https://github.com/mattbanks/dotfiles-syntax-highlighting-st2)
