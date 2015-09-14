@@ -5,6 +5,7 @@
 	"installed_packages":
 	[
 		"ApplySyntax",
+		"BracketHighlighter",
 		"CodeKit",
 		"ColorPicker",
 		"DashDoc",
