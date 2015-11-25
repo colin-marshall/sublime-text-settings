@@ -5,6 +5,7 @@
 	],
 	"installed_packages":
 	[
+		"Alignment",
 		"AngularJS",
 		"ApplySyntax",
 		"BracketHighlighter",
@@ -17,6 +18,7 @@
 		"GitGutter",
 		"Gulp",
 		"Jekyll",
+		"LogView",
 		"Markdown Extended",
 		"Package Control",
 		"PackageResourceViewer",
@@ -26,6 +28,7 @@
 		"SideBarEnhancements",
 		"Siteleaf Liquid Syntax",
 		"SublimeLinter",
+		"SublimeLinter-contrib-scss-lint",
 		"SublimeLinter-csslint",
 		"SublimeLinter-html-tidy",
 		"SublimeLinter-jshint",
